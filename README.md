@@ -15,10 +15,10 @@
 
 
 <a href="www.linkedin.com/in/luis-fernando-nagano-7585b82a8">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" height="24" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white" height="24" />
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=flat&logo=kaggle&logoColor=white" height="30" />
