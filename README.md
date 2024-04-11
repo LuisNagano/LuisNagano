@@ -9,7 +9,7 @@
 [![DEV Badge](https://img.shields.io/badge/-DEV-black?style=flat-square&logo=dev.to&logoColor=white&link=your-dev-url)](your-dev-url)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=your-kaggle-url)](your-kaggle-url)
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white&link=your-gitlab-url)](your-gitlab-url)
-![Static Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)(nagano.luis@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](nagano.luis@gmail.com)
 
 </div>
 
@@ -19,7 +19,7 @@ I currently develop projects that prioritize solving business problems, from und
 
 For more details about my projects and each solution, they are described in the data science project section.
 
-### Analytics Tools
+## Analytics Tools
 
 - **Data Collection and Storage:** MySQL and PostgreSQL.
 - **Data Processing and Analytics:** Jupyter Notebook, Pandas, NumPy.
@@ -28,7 +28,7 @@ For more details about my projects and each solution, they are described in the 
 - **Machine Learning Modeling:** Classification, Regression, Clusterization, Time Series, and Neural Network.
 - **Machine Learning Deployment:** Flask and Docker.
 
-### Data Science Projects
+## Data Science Projects
 
 - <a href="your-olist-project-url" style="color: blue;">Olist Delivery Forecast</a>
 - <a href="your-airbnb-project-url" style="color: blue;">Airbnb Scheduling Forecast</a>
@@ -39,7 +39,12 @@ For more details about my projects and each solution, they are described in the 
 - <a href="your-rossman-project-url" style="color: blue;">Rossman Store Sales</a>
 - <a href="your-bookclub-project-url" style="color: blue;">Bookclub Data Storing</a>
 
-### Blog Posts
+- <h3><a href="your-project-link" style="text-decoration: underline;">Olist Delivery Forecast</a></h3>
+
+  Olist is the largest department store in Brazilian marketplaces. This project aims to develop and implement a model to predict the time in days until the delivery of a given product. *in progress*
+
+
+## Blog Posts
 
 (Add your blog posts here...)
 
