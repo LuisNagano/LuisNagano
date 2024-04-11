@@ -5,7 +5,7 @@
 <div align="center">
   
 [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-fernando-nagano-7585b82a8)
-![Static Badge](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)()
 [![Static Badge](https://img.shields.io/badge/Kaggle-%2320BEFF?style=flat&logo=kaggle&logoColor=white)]()
 [![Static Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](nagano.luis@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Google_Scholar-blue?style=flat&logo=googlescholar&logoColor=white)]()
@@ -13,6 +13,31 @@
 [![Static Badge](https://img.shields.io/badge/Github_Page-black?style=flat&logo=github%20pages&logoColor=white)]()
 [![Static Badge](https://img.shields.io/badge/Instagram-blueviolet?style=flat&logo=instagram&logoColor=white)]()
 
+
+<a href="www.linkedin.com/in/luis-fernando-nagano-7585b82a8">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" height="30" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white" height="30" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=flat&logo=kaggle&logoColor=white" height="30" />
+</a>
+<a href="mailto:nagano.luis@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" height="30" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Google_Scholar-blue?style=flat&logo=googlescholar&logoColor=white" height="30" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/ORC_ID-green?style=flat&logo=orcid&logoColor=white" height="30" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Github_Page-black?style=flat&logo=github%20pages&logoColor=white" height="30" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Instagram-blueviolet?style=flat&logo=instagram&logoColor=white" height="30" />
+</a>
 
 
 
