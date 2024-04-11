@@ -11,6 +11,8 @@
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white&link=your-gitlab-url)](your-gitlab-url)
 ![Static Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)(nagano.luis@gmail.com)
 
+</div>
+
 I'm a data scientist and bioinformatician with a passion for technology.
 
 I currently develop projects that prioritize solving business problems, from understanding them, analyzing data, to extracting insights and implementing the solution. I also continue to develop myself with improvement and study activities such as a portfolio of data science projects and I also write about the same topic on a blog on [Medium](your-medium-url).
