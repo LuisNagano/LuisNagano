@@ -6,10 +6,15 @@
   
 [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-fernando-nagano-7585b82a8)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=your-medium-url)](your-medium-url)
-[![DEV Badge](https://img.shields.io/badge/-DEV-black?style=flat-square&logo=dev.to&logoColor=white&link=your-dev-url)](your-dev-url)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=your-kaggle-url)](your-kaggle-url)
-[![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white&link=your-gitlab-url)](your-gitlab-url)
+[![Static Badge](https://img.shields.io/badge/Kaggle-%2320BEFF?style=flat&logo=kaggle&logoColor=white)]()
 [![Static Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](nagano.luis@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Google_Scholar-blue?style=flat&logo=googlescholar&logoColor=white)]()
+[![Static Badge](https://img.shields.io/badge/ORC_ID-green?style=flat&logo=orcid&logoColor=white)]()
+[![Static Badge](https://img.shields.io/badge/Github_Page-black?style=flat&logo=github%20pages&logoColor=white)]()
+[![Static Badge](https://img.shields.io/badge/Instagram-blueviolet?style=flat&logo=instagram&logoColor=white)]()
+
+
+
 
 </div>
 
