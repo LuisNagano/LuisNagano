@@ -5,7 +5,7 @@
 <div align="center">
   
 [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-fernando-nagano-7585b82a8)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=your-medium-url)](your-medium-url)
+![Static Badge](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)
 [![Static Badge](https://img.shields.io/badge/Kaggle-%2320BEFF?style=flat&logo=kaggle&logoColor=white)]()
 [![Static Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](nagano.luis@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Google_Scholar-blue?style=flat&logo=googlescholar&logoColor=white)]()
