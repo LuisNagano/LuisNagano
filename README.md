@@ -52,13 +52,21 @@ For more details about my projects and each solution, they are described in the 
   This data science project created a machine learning model able to predict the sales up to six weeks in advance, enabling them to calculate the profit per store and the amount of money available to invest.
 
 
+## Data Engineering Projects
+
+- <h3><a href="your-bookclub-data-storing-link" style="text-decoration: underline;">Bookclub Data Storing</a></h3>
+  The Bookclub doesn't collect the data from its website, however they are updated with each purchase, sale or exchange that takes place on the website. For this purpose, this project aims to collect, transforma and load (ETL) data from the website books.toscrape for a MySQL database. The ETL is scheduled using Airflow. Both MySQL and Airflow platform were active using Docker.
 
 ## Blog Posts
 
-(Add your blog posts here...)
+- <h3><a href="your-metrics-para-regressao-link" style="text-decoration: underline;">Metrics para Regressão: Entendendo as métricas R², MAE, MAPE, MSE e RMSE</a></h3>
+  In the post "Metrics for Regression: Understanding R², MAE, MAPE, MSE, and RMSE Metrics", title in english, I wrote about metrics for regression models. The selected metrics were R², Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), Mean Squared Error (MSE) and Root Mean Squared Error (RMSE). During this post I explain about the calculation of metrics and how to interpret them.
 
-<!-- Actual text -->
+- <h3><a href="your-indo-alem-da-acuracia-link" style="text-decoration: underline;">Indo Além da Acurácia: Entendo a Acurácia Balanceada, Precisão, Recall e F1 score</a></h3>
+  The post "Going Beyond Accuracy: Understanding Balanced Accuracy, Precision, Recall and F1 score", title in english, I wrote about metrics to avaliate models of classification. The metrics covered were Balanced Accuracy, Precision, Recall and F1 score. During the post, I talk about how to calculate these metrics and understand them.
 
-You can include actual text about your projects and blog posts with links to the repositories and articles.
+- <h3><a href="your-escolha-suas-palavras-link" style="text-decoration: underline;">Escolha as suas palavras: uma introdução às expressões regulares e ao seu entendimento.</a></h3>
+  The post "Choose Your Words: An introduction to regular expressions and understanding them", title in english, I wrote a introduction about regular expression. Each expression is presented with its functionality within a sentence, along with an example.
 
-(Repeat the structure above for each project or post)
+- <h3><a href="your-feature-engineering-link" style="text-decoration: underline;">Feature Engineering: Técnicas para lidar com dados faltantes em um projeto de ciência de dados.</a></h3>
+  The post "Feature Engineering: Techniques for dealing with missing data in a data science project", title in english, I wrote about techniques for dealing with missing data. Each technique presented is explained along with examples. Some of the techniques covered "removal of missing data", "mean or median imputation", "categorical imputation" and "missing value indicator".
