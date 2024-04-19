@@ -1,3 +1,4 @@
+![Banner](https://github.com/LuisNagano/LuisNagano/blob/main/Banner.png)
 # Hi there 👋! I'm Luis Nagano
 
 *<h3 align="center">Data Scientist and Bioinformatician</h3>*
