@@ -59,6 +59,12 @@ For more details about my projects and each solution, they are described in the 
 - <h3><a href="your-bookclub-data-storing-link" style="text-decoration: underline;">Bookclub Data Storing</a></h3>
   The Bookclub doesn't collect the data from its website, however they are updated with each purchase, sale or exchange that takes place on the website. For this purpose, this project aims to collect, transforma and load (ETL) data from the website books.toscrape for a MySQL database. The ETL is scheduled using Airflow. Both MySQL and Airflow platform were active using Docker.
 
+## Artificial Intelligence Projects
+
+- <h3><a href="https://github.com/LuisNagano/Chatbot-Music-Store" style="text-decoration: underline;">GuitarBot - Music Store Order Collection</a></h3>
+  GuitarBot is an automated service designed to collect orders for a music store using OpenAI's GPT-3.5-turbo. This project showcases the integration of OpenAI's conversational AI with a graphical user interface (GUI) created using the Panel library. GuitarBot interacts with customers to take orders for guitars and related accessories, providing a seamless and interactive shopping experience.
+
+
 ## Blog Posts
 
 - <h3><a href="your-metrics-para-regressao-link" style="text-decoration: underline;">Metrics para Regressão: Entendendo as métricas R², MAE, MAPE, MSE e RMSE</a></h3>
