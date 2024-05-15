@@ -30,6 +30,15 @@ For more details about my projects and each solution, they are described in the 
 - **Machine Learning Modeling:** Classification, Regression, Clusterization, Time Series, and Neural Network.
 - **Machine Learning Deployment:** Flask and Docker.
 
+## Analytics Tools
+
+- **Data Collection and Storage:** MySQL, PostgreSQL, MongoDB, Cassandra
+- **Data Processing and Analytics:** Jupyter Notebook, Pandas, NumPy, Apache Spark, TensorFlow, R notebooks
+- **Development:** Python, Git, Clean Code, Java, Node.js
+- **Data Visualization:** Seaborn, Matplotlib, Plotly, Tableau, Power BI
+- **Machine Learning Modeling:** Classification, Regression, Clusterization, Time Series, Neural Network, Support Vector Machines, Decision Trees
+- **Machine Learning Deployment:** Flask, Docker, Kubernetes, AWS Lambda
+
 ## Data Science Projects
 
 - <h3><a href="your-olist-delivery-forecast-link" style="text-decoration: underline;">Olist Delivery Forecast</a></h3>
