@@ -15,11 +15,13 @@
 [![Static Badge](https://img.shields.io/badge/Instagram-blueviolet?style=flat&logo=instagram&logoColor=white)]()
 </div>
 
-I'm a data scientist and bioinformatician with a passion for technology.
+I am a passionate data scientist and bioinformatician with 8 years of experience, specializing in clinical, cancer, and developmental biology data analysis. My expertise in R, Python, Bash (Unix Shell), and Perl, combined with strong skills in machine learning, statistical analysis, and bioinformatics, allows me to derive impactful insights from complex datasets.
 
-I currently develop projects that prioritize solving business problems, from understanding them, analyzing data, to extracting insights and implementing the solution. I also continue to develop myself with improvement and study activities such as a portfolio of data science projects and I also write about the same topic on a blog on [Medium](your-medium-url).
+Throughout my career, I have contributed to several scientific projects aimed at discovering novel biomarkers and therapeutic targets, with a focus on improving the prognosis and treatment of pediatric cancers. My work is grounded in data science, leveraging advanced algorithms and statistical methods to translate raw data into actionable insights.
 
-For more details about my projects and each solution, they are described in the data science project section.
+I have published multiple articles in international journals and have experience presenting research at scientific conferences, where I was recognized for my contributions to pediatric oncology.
+
+I pride myself on my ability to communicate complex data in a clear, accessible way, making sure that insights are not only understood but also actionable. My critical thinking, problem-solving abilities, and deep curiosity about science and technology drive me to continuously improve and innovate.
 
 ## Analytics Tools
 
