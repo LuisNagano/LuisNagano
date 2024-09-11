@@ -25,12 +25,12 @@ I pride myself on my ability to communicate complex data in a clear, accessible 
 
 ## Analytics Tools
 
-- **Data Collection and Storage:** MySQL, PostgreSQL, MongoDB, Cassandra
+- **Data Collection and Storage:** MySQL, PostgreSQL
 - **Data Processing and Analytics:** Jupyter Notebook, Pandas, NumPy, Apache Spark, TensorFlow, R notebooks
-- **Development:** Python, Git, Clean Code, Java, Node.js
-- **Data Visualization:** Seaborn, Matplotlib, Plotly, Tableau, Power BI
+- **Development:** Python, Git, R, Perl, Bash
+- **Data Visualization:** Seaborn, Matplotlib, Plotly, Tableau, Ggplot2
 - **Machine Learning Modeling:** Classification, Regression, Clusterization, Time Series, Neural Network, Support Vector Machines, Decision Trees
-- **Machine Learning Deployment:** Flask, Docker, Kubernetes, AWS Lambda
+- **Machine Learning Deployment:** Flask, Docker, AWS
 
 ## Data Science Projects
 
@@ -82,9 +82,6 @@ I pride myself on my ability to communicate complex data in a clear, accessible 
   <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=black&style=for-the-badge" height="25" alt="rstudio logo" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="25" alt="linux logo" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker logo" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="25" alt="amazonwebservices logo" />
-  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="25" alt="azure logo" />
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="25" alt="googlecloud logo" />
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="25" alt="sass logo" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
