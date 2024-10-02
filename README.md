@@ -23,14 +23,34 @@ I have published multiple articles in international journals and have experience
 
 I pride myself on my ability to communicate complex data in a clear, accessible way, making sure that insights are not only understood but also actionable. My critical thinking, problem-solving abilities, and deep curiosity about science and technology drive me to continuously improve and innovate.
 
-## Analytics Tools
+## Skills
 
-- **Data Collection and Storage:** MySQL, PostgreSQL
-- **Data Processing and Analytics:** Jupyter Notebook, Pandas, NumPy, Apache Spark, TensorFlow, R notebooks
-- **Development:** Python, Git, R, Perl, Bash
-- **Data Visualization:** Seaborn, Matplotlib, Plotly, Tableau, Ggplot2
-- **Machine Learning Modeling:** Classification, Regression, Clusterization, Time Series, Neural Network, Support Vector Machines, Decision Trees
-- **Machine Learning Deployment:** Flask, Docker, AWS
+### Data Collection and Storage
+- **Databases:** MySQL, PostgreSQL, TCGA, GTEx, GEO, Ensembl, NCBI, UCSC Genome Browser
+- **Data Management and Versioning:** SQL, Git, GitHub, GitLab
+- **Development Environments:** Jupyter Notebooks, RStudio, Visual Studio Code
+
+### Data Processing and Analytics
+- **Data Processing:** Pandas, NumPy, SciPy, BioPython, dplyr
+- **Genomic Analysis:** STAR, HISAT2, BWA, Bowtie, DESeq2, EdgeR, limma, Seurat, Scanpy, CemiTools, Minfi, MACS2
+- **Statistical Analysis:** Linear Regression, Logistic Regression, GLM, Cox Proportional Hazards, DESeq2, EdgeR, limma
+
+### Machine Learning and Modeling
+- **Algorithms:** Random Forest, SVM, Neural Networks, XGBoost, Deep Learning
+- **Clustering:** K-means, Hierarchical Clustering, Consensus Clustering, WGCNA
+- **Dimensionality Reduction:** PCA, t-SNE
+- **Model Optimization:** Cross-validation, Hyperparameter Tuning
+
+### Data Visualization
+- **Visualization Tools:** Matplotlib, Seaborn, Plotly, ggplot2, Tableau, Shiny, Cytoscape, IGV (Integrative Genomics Viewer)
+- **Visualization Types:** Heatmaps, Volcano Plots, PCA Plots, t-SNE, Interactive Dashboards
+- **Network and Pathway Visualization:** STRING, Reactome, KEGG
+
+### Machine Learning Deployment
+- **Deployment Tools:** Flask, Docker, AWS
+
+### Computational Resources
+- **High-Performance Computing:** Running pipelines on distributed computing environments
 
 ## Data Science Projects
 
