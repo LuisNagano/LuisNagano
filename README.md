@@ -107,6 +107,17 @@ I pride myself on my ability to communicate complex data in a clear, accessible 
 
 ## Data Science Projects
 
+- <h3><a href="https://github.com/LuisNagano/Breast-Cancer-Prediction" style="text-decoration: underline;">Breast Cancer Prediction Using Machine Learning</a></h3>
+  This project focuses on building and evaluating various machine learning models to predict breast cancer using clinical and pathological data. The analysis includes data preprocessing, exploratory data analysis, model building, and evaluation. Multiple models such as Logistic Regression, SVM, Random Forest, and XGBoost are implemented and compared. The project also includes ROC curve analysis, feature importance assessment, and a profit calculation for a hypothetical breast cancer diagnosis company.
+  
+  <b>Technologies used:</b>
+  <ul>
+    <li><b>Language:</b> Python</li>
+    <li><b>Libraries:</b> pandas, numpy, scikit-learn, xgboost, seaborn, matplotlib</li>
+    <li><b>Data:</b> Breast cancer dataset with clinical and pathological features</li>
+    <li><b>Algorithms:</b> Logistic Regression, KNN, SVM, Decision Trees, Random Forest, Gradient Boosting, XGBoost</li>
+  </ul>
+
 ## Artificial Intelligence Projects
 
 - <h3><a href="https://github.com/LuisNagano/Chatbot-Music-Store" style="text-decoration: underline;">GuitarBot - Music Store Order Collection</a></h3>
