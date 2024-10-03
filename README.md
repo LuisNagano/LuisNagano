@@ -74,6 +74,36 @@ I pride myself on my ability to communicate complex data in a clear, accessible 
     <li><b>Data:</b> TCGA RNA-seq (human ACC-COC3) and in-house RNA-seq (mouse BPCre)</li>
   </ul>
 
+- <h3><a href="https://github.com/LuisNagano/Gene-Coexpression-network" style="text-decoration: underline;">Gene Co-expression Network Analysis in Adrenocortical Carcinoma (ACC)</a></h3>
+  This project focuses on performing a comprehensive gene co-expression network analysis for adrenocortical carcinoma (ACC) samples from the TCGA database and normal adrenal gland tissues from the GTEx project. Using the CEMiTool package, we identified co-expressed gene modules, conducted pathway enrichment analysis, and explored their interactions within ACC subgroups (ACC-COC1, ACC-COC2, and ACC-COC3). The analysis highlights key pathways and hub genes that may serve as potential biomarkers and therapeutic targets in ACC.
+
+  <b>Technologies used:</b>
+  <ul>
+    <li><b>Language:</b> R</li>
+    <li><b>Packages:</b> CEMiTool, ggplot2</li>
+    <li><b>Data:</b> TCGA-ACC samples and GTEx Normal Adrenal Gland tissue samples</li>
+  </ul>
+
+- <h3><a href="https://github.com/LuisNagano/Metabolism-PathwayScore" style="text-decoration: underline;">Metabolic Pathway Analysis in Lung Squamous Cell Carcinoma (LUSC)</a></h3>
+  This project focuses on pathway scoring for Lung Squamous Cell Carcinoma (LUSC) using transcriptomic data. The analysis is based on the methodology from Rosario et al. (2018) to identify key metabolic pathways that are dysregulated in LUSC compared to normal tissue. We calculated pathway scores using a custom algorithm and identified significant dysregulation in multiple metabolic pathways, providing insights into potential therapeutic targets.
+
+  <b>Technologies used:</b>
+  <ul>
+    <li><b>Language:</b> R</li>
+    <li><b>Packages:</b> limma, edgeR, ggplot2</li>
+    <li><b>Data:</b> TCGA-LUSC raw count data from GDAC Firehose</li>
+  </ul>
+
+- <h3><a href="https://github.com/LuisNagano/ComplexHeatmap-RNASeq" style="text-decoration: underline;">Data Visualization using ComplexHeatmap package</a></h3>
+  This project focuses on the analysis and visualization of RNA-seq data from mouse samples using the ComplexHeatmap package. The analysis includes data normalization, selection of genes of interest from predefined lists, and the generation of heatmaps to visualize gene expression patterns across different experimental conditions (WT, BPCre, BCre, PCre, and ACC). The heatmaps are color-coded based on z-score values, providing insights into gene regulation.
+
+  <b>Technologies used:</b>
+  <ul>
+    <li><b>Language:</b> R</li>
+    <li><b>Packages:</b> ComplexHeatmap, RColorBrewer, circlize, colorRamps, biomaRt, edgeR</li>
+    <li><b>Data:</b> RNA-seq gene expression data for mouse samples</li>
+  </ul>
+
 
 ## Data Science Projects
 
