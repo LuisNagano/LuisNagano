@@ -52,6 +52,12 @@ I pride myself on my ability to communicate complex data in a clear, accessible 
 ### Computational Resources
 - **High-Performance Computing:** Running pipelines on distributed computing environments
 
+## Bioinformatics Projects
+
+- <h3><a href="https://github.com/LuisNagano/ConsensusClusterPlus" style="text-decoration: underline;">Unsupervised machine learning method establishes medulloblastoma molecular subgroup classification using lncRNA expression</a></h3>
+  This project applies unsupervised machine learning techniques to classify molecular subgroups in medulloblastoma (MB) using lncRNA expression profiles from 167 MB samples. Using the ConsensusClusterPlus package in R, we identified four robust molecular subgroups corresponding to the known subtypes: Group 3, Group 4, SHH, and WNT. Validation with Cohen’s Kappa coefficient showed excellent agreement between the lncRNA-based classification and the original subgroups. 
+
+
 ## Data Science Projects
 
 ## Artificial Intelligence Projects
