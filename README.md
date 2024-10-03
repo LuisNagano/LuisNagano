@@ -64,6 +64,16 @@ I pride myself on my ability to communicate complex data in a clear, accessible 
     <li><b>Data:</b> RNA-seq normalized expression from 167 samples</li>
   </ul>
 
+- <h3><a href="https://github.com/LuisNagano/MetaFlux-Metabolism" style="text-decoration: underline;">Comparative Metabolic Flux Analysis: ACC-COC3 vs. BPCre Tumor Model</a></h3>
+  This project presents a comparative metabolic flux analysis between human adrenocortical carcinoma (ACC) samples (subgroup ACC-COC3) and the mouse BPCre tumor model. The analysis utilizes RNA-seq data and calculates Metabolic Reaction Activity Scores (MRAS) to explore key metabolic pathways and validate metabolic similarities between both models. The study identified highly conserved pathways in amino acid and lipid metabolism, offering insights into potential therapeutic targets for ACC.
+
+  <b>Technologies used:</b>
+  <ul>
+    <li><b>Language:</b> R</li>
+    <li><b>Packages:</b> METAFlux, DESeq2, clusterProfiler</li>
+    <li><b>Data:</b> TCGA RNA-seq (human ACC-COC3) and in-house RNA-seq (mouse BPCre)</li>
+  </ul>
+
 
 ## Data Science Projects
 
