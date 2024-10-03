@@ -129,6 +129,19 @@ I pride myself on my ability to communicate complex data in a clear, accessible 
     <li><b>Algorithm:</b> Support Vector Machine (SVM) with linear kernel</li>
     <li><b>Techniques:</b> Data standardization, train-test split, accuracy evaluation</li>
   </ul>
+
+- <h3><a href="https://github.com/LuisNagano/cardiovascular_disease_prediction" style="text-decoration: underline;">Cardiovascular Disease Prediction Using Machine Learning</a></h3>
+  This project aims to develop a tool to increase the accuracy of cardiovascular disease diagnosis for Cardio Catch Diseases company. The analysis includes feature engineering, exploratory data analysis, machine learning modeling, and evaluation of various algorithms such as Logistic Regression, KNN, Random Forest, and XGBoost. The final model (optimized XGBoost) achieves an accuracy of 71.4% on unseen data, representing a significant improvement over the current manual method (55-65% accuracy).
+  
+  <b>Technologies used:</b>
+  <ul>
+    <li><b>Language:</b> Python</li>
+    <li><b>Libraries:</b> pandas, numpy, scikit-learn, xgboost, seaborn, matplotlib</li>
+    <li><b>Data:</b> Dataset of biomedical measurements related to cardiovascular diseases</li>
+    <li><b>Algorithms:</b> Logistic Regression, KNN, SVM, Random Forest, XGBoost</li>
+    <li><b>Techniques:</b> Feature engineering, exploratory data analysis, hyperparameter optimization, cross-validation</li>
+    <li><b>Deployment:</b> Flask API for serving model predictions</li>
+  </ul>
   
 ## Artificial Intelligence Projects
 
