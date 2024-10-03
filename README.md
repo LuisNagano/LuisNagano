@@ -118,6 +118,18 @@ I pride myself on my ability to communicate complex data in a clear, accessible 
     <li><b>Algorithms:</b> Logistic Regression, KNN, SVM, Decision Trees, Random Forest, Gradient Boosting, XGBoost</li>
   </ul>
 
+- <h3><a href="https://github.com/LuisNagano/Parkinson-Disease-Prediction" style="text-decoration: underline;">Parkinson's Disease Prediction Using Machine Learning</a></h3>
+  This project focuses on predicting Parkinson's disease using biomedical voice measurements. The analysis includes data preprocessing, exploratory data analysis, model building using Support Vector Machine (SVM), and evaluation. The project demonstrates the entire machine learning pipeline from data loading to making predictions on new data. The SVM model achieves an accuracy of 87.18% on both training and testing sets, indicating good generalization without overfitting.
+  
+  <b>Technologies used:</b>
+  <ul>
+    <li><b>Language:</b> Python</li>
+    <li><b>Libraries:</b> pandas, numpy, scikit-learn</li>
+    <li><b>Data:</b> Parkinson's disease dataset with biomedical voice measurements</li>
+    <li><b>Algorithm:</b> Support Vector Machine (SVM) with linear kernel</li>
+    <li><b>Techniques:</b> Data standardization, train-test split, accuracy evaluation</li>
+  </ul>
+  
 ## Artificial Intelligence Projects
 
 - <h3><a href="https://github.com/LuisNagano/Chatbot-Music-Store" style="text-decoration: underline;">GuitarBot - Music Store Order Collection</a></h3>
