@@ -145,9 +145,21 @@ I pride myself on my ability to communicate complex data in a clear, accessible 
   
 ## Artificial Intelligence Projects
 
+- <h3><a href="https://github.com/LuisNagano/Chatbot-Didatico" style="text-decoration: underline;">Chatbot using Python and Machine Learning</a></h3>
+  This project demonstrates the creation of an intelligent chatbot using Python, Natural Language Processing (NLP), and Machine Learning techniques. The chatbot is capable of understanding user input, classifying intents, and responding appropriately. The implementation covers the entire pipeline from data preprocessing to deploying the chatbot using Flask.
+
+  <b>Technologies used:</b>
+  <ul>
+    <li><b>Language:</b> Python</li>
+    <li><b>Libraries:</b> NLTK, scikit-learn, Flask</li>
+    <li><b>NLP Techniques:</b> Text tokenization, TF-IDF vectorization</li>
+    <li><b>Machine Learning:</b> Logistic Regression for intent classification</li>
+    <li><b>Web Framework:</b> Flask for creating a web interface</li>
+    <li><b>Data:</b> Predefined intents with patterns and responses</li>
+  </ul>
+
 - <h3><a href="https://github.com/LuisNagano/Chatbot-Music-Store" style="text-decoration: underline;">GuitarBot - Music Store Order Collection</a></h3>
   GuitarBot is an automated service designed to collect orders for a music store using OpenAI's GPT-3.5-turbo. This project showcases the integration of OpenAI's conversational AI with a graphical user interface (GUI) created using the Panel library. GuitarBot interacts with customers to take orders for guitars and related accessories, providing a seamless and interactive shopping experience.
-
 
 ## Blog Posts
 
