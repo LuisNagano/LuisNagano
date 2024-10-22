@@ -9,7 +9,7 @@
 [![Static Badge](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)]()
 [![Static Badge](https://img.shields.io/badge/Kaggle-%2320BEFF?style=flat&logo=kaggle&logoColor=white)]()
 [![Static Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](nagano.luis@gmail.com)
-[![Static Badge](https://img.shields.io/badge/Google_Scholar-blue?style=flat&logo=googlescholar&logoColor=white)]()
+[![Static Badge](https://img.shields.io/badge/Google_Scholar-blue?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=DAu3984AAAAJ)
 [![Static Badge](https://img.shields.io/badge/ORC_ID-green?style=flat&logo=orcid&logoColor=white)]()
 [![Static Badge](https://img.shields.io/badge/Github_Page-black?style=flat&logo=github%20pages&logoColor=white)]()
 [![Static Badge](https://img.shields.io/badge/Instagram-blueviolet?style=flat&logo=instagram&logoColor=white)]()
