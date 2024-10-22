@@ -105,6 +105,19 @@ I pride myself on my ability to communicate complex data in a clear, accessible 
   </ul>
 
 
+- <h3><a href="https://github.com/LuisNagano/Microarray-Data-Analysis-Pipeline" style="text-decoration: underline;">Advanced Microarray Data Analysis and Visualization Pipeline in R</a></h3>
+  This project presents a comprehensive pipeline for microarray data analysis and visualization using R. Specifically designed for Affymetrix microarray platforms, the pipeline includes data normalization using RMA, MAS5, and GCRMA methods, differential expression analysis with the `limma` package, and advanced heatmap visualization utilizing the `ComplexHeatmap` package. The project facilitates the identification of differentially expressed genes (DEGs) and provides insightful visualizations to aid in interpreting high-throughput gene expression data.
+
+  <b>Technologies used:</b>
+  <ul>
+    <li><b>Language:</b> R</li>
+    <li><b>Packages:</b> affy, simpleaffy, gcrma, limma, ComplexHeatmap, RColorBrewer, circlize, colorRamps, hgu95av2cdf</li>
+    <li><b>Data:</b> Affymetrix microarray CEL files, sample metadata (`targets.txt`)</li>
+    <li><b>Techniques:</b> Microarray data normalization, differential expression analysis, statistical modeling, heatmap visualization</li>
+  </ul>
+
+
+
 ## Data Science Projects
 
 - <h3><a href="https://github.com/LuisNagano/Breast-Cancer-Prediction" style="text-decoration: underline;">Breast Cancer Prediction Using Machine Learning</a></h3>
