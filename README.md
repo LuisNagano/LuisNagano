@@ -117,7 +117,7 @@ I pride myself on my ability to communicate complex data in a clear, accessible 
   </ul>
 
 
-- <h3><a href="https://github.com/LuisNagano/ChIPSeq-Analysis-Pipeline" style="text-decoration: underline;">ChIP-Seq Analysis Pipeline</a></h3>
+- <h3><a href="https://github.com/LuisNagano/ChIP-seq-analysis" style="text-decoration: underline;">ChIP-Seq Analysis Pipeline</a></h3>
   This project is an adaptation of the workflow I developed during my master's program in Genetics at the University of Campinas. It focuses on identifying potential target genes regulated by the transcription factor NR2F2 (COUPTF-II) using Chromatin Immunoprecipitation followed by sequencing (ChIP-Seq) data. The pipeline encompasses all essential steps, from processing raw sequencing data and aligning reads to the reference genome, to peak calling, quality control, motif analysis, and peak annotation. Additionally, it includes reproducibility assessment using IDR to ensure the reliability of the identified peaks.
 
   <b>Technologies used:</b>
