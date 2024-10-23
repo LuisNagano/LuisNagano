@@ -25,6 +25,9 @@ I pride myself on my ability to communicate complex data in a clear, accessible 
 
 ## Skills
 
+### Programming Languages
+- **Languages:** Python, R, Bash, Perl, SQL
+
 ### Data Collection and Storage
 - **Databases:** MySQL, PostgreSQL, TCGA, GTEx, GEO, Ensembl, NCBI, UCSC Genome Browser
 - **Data Management and Versioning:** SQL, Git, GitHub, GitLab
