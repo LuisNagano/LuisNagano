@@ -21,7 +21,7 @@ Throughout my career, I have contributed to several scientific projects aimed at
 
 I have published multiple articles in international journals and have experience presenting research at scientific conferences, where I was recognized for my contributions to pediatric oncology.
 
-I pride myself on my ability to communicate complex data in a clear, accessible way, making sure that insights are not only understood but also actionable. My critical thinking, problem-solving abilities, and deep curiosity about science and technology drive me to continuously improve and innovate.
+I have the ability to communicate complex data in a clear, accessible way, making sure that insights are not only understood but also actionable. My critical thinking, problem-solving abilities, and deep curiosity about science and technology drive me to continuously improve and innovate.
 
 ## Skills
 
