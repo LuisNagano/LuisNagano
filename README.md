@@ -94,7 +94,7 @@ I pride myself on my ability to communicate complex data in a clear, accessible 
     <li><b>Data:</b> TCGA-LUSC raw count data from GDAC Firehose</li>
   </ul>
 
-- <h3><a href="https://github.com/LuisNagano/ComplexHeatmap-RNASeq" style="text-decoration: underline;">Data Visualization using ComplexHeatmap package</a></h3>
+- <h3><a href="https://github.com/LuisNagano/Data-Visualization-ComplexHeatmap" style="text-decoration: underline;">Data Visualization using ComplexHeatmap package</a></h3>
   This project focuses on the analysis and visualization of RNA-seq data from mouse samples using the ComplexHeatmap package. The analysis includes data normalization, selection of genes of interest from predefined lists, and the generation of heatmaps to visualize gene expression patterns across different experimental conditions (WT, BPCre, BCre, PCre, and ACC). The heatmaps are color-coded based on z-score values, providing insights into gene regulation.
 
   <b>Technologies used:</b>
@@ -105,7 +105,7 @@ I pride myself on my ability to communicate complex data in a clear, accessible 
   </ul>
 
 
-- <h3><a href="https://github.com/LuisNagano/Microarray-Data-Analysis-Pipeline" style="text-decoration: underline;">Advanced Microarray Data Analysis and Visualization Pipeline in R</a></h3>
+- <h3><a href="https://github.com/LuisNagano/Microarray-analysis" style="text-decoration: underline;">Advanced Microarray Data Analysis and Visualization Pipeline in R</a></h3>
   This project presents a comprehensive pipeline for microarray data analysis and visualization using R. Specifically designed for Affymetrix microarray platforms, the pipeline includes data normalization using RMA, MAS5, and GCRMA methods, differential expression analysis with the `limma` package, and advanced heatmap visualization utilizing the `ComplexHeatmap` package. The project facilitates the identification of differentially expressed genes (DEGs) and provides insightful visualizations to aid in interpreting high-throughput gene expression data.
 
   <b>Technologies used:</b>
