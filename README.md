@@ -117,6 +117,17 @@ I pride myself on my ability to communicate complex data in a clear, accessible 
   </ul>
 
 
+- <h3><a href="https://github.com/LuisNagano/ChIPSeq-Analysis-Pipeline" style="text-decoration: underline;">ChIP-Seq Analysis Pipeline</a></h3>
+  This project is an adaptation of the workflow I developed during my master's program in Genetics at the University of Campinas. It focuses on identifying potential target genes regulated by the transcription factor NR2F2 (COUPTF-II) using Chromatin Immunoprecipitation followed by sequencing (ChIP-Seq) data. The pipeline encompasses all essential steps, from processing raw sequencing data and aligning reads to the reference genome, to peak calling, quality control, motif analysis, and peak annotation. Additionally, it includes reproducibility assessment using IDR to ensure the reliability of the identified peaks.
+
+  <b>Technologies used:</b>
+  <ul>
+    <li><b>Language:</b> Bash</li>
+    <li><b>Tools/Packages:</b> Bowtie2, SAMtools, MACS2, HOMER, IGV, IDR</li>
+    <li><b>Data:</b> ChIP-Seq FASTQ files, mouse reference genome (mm10)</li>
+    <li><b>Techniques:</b> Read alignment, peak calling, quality control, motif discovery, peak annotation, reproducibility assessment</li>
+  </ul>
+
 
 ## Data Science Projects
 
