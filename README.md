@@ -10,9 +10,9 @@
 [![Static Badge](https://img.shields.io/badge/Kaggle-%2320BEFF?style=flat&logo=kaggle&logoColor=white)]()
 [![Static Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](nagano.luis@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Google_Scholar-blue?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=DAu3984AAAAJ)
-[![Static Badge](https://img.shields.io/badge/ORC_ID-green?style=flat&logo=orcid&logoColor=white)]()
-[![Static Badge](https://img.shields.io/badge/Github_Page-black?style=flat&logo=github%20pages&logoColor=white)]()
-[![Static Badge](https://img.shields.io/badge/Instagram-blueviolet?style=flat&logo=instagram&logoColor=white)]()
+[![Static Badge](https://img.shields.io/badge/ORC_ID-green?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4313-9347)
+[![Static Badge](https://img.shields.io/badge/Github_Page-black?style=flat&logo=github%20pages&logoColor=white)](https://github.com/LuisNagano)
+[![Static Badge](https://img.shields.io/badge/Instagram-blueviolet?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/luisfernandonagano/)
 </div>
 
 I am a passionate data scientist and bioinformatician with 8 years of experience, specializing in clinical, cancer, and developmental biology data analysis. My expertise in R, Python, Bash (Unix Shell), and Perl, combined with strong skills in machine learning, statistical analysis, and bioinformatics, allows me to derive impactful insights from complex datasets.
