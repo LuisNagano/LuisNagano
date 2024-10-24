@@ -131,6 +131,17 @@ I have the ability to communicate complex data in a clear, accessible way, makin
     <li><b>Techniques:</b> Read alignment, peak calling, quality control, motif discovery, peak annotation, reproducibility assessment</li>
   </ul>
 
+- <h3><a href="https://github.com/LuisNagano/Single-Cell-Clustering-Analysis" style="text-decoration: underline;">Single Cell Clustering Analysis Using Seurat</a></h3>
+  This project presents a comprehensive pipeline for single-cell RNA sequencing (scRNA-seq) data analysis using the Seurat package. The workflow covers all key steps from data preprocessing to cell type identification, showcasing best practices in computational biology. The analysis utilizes the "PBMC 3k" dataset from 10x Genomics.
+
+  <b>Technologies used:</b>
+  <ul>
+    <li><b>Language:</b> R</li>
+    <li><b>Packages:</b> Seurat, dplyr, ggplot2, patchwork</li>
+    <li><b>Data:</b> PBMC 3k single-cell 3' RNA-seq dataset from 10x Genomics</li>
+    <li><b>Techniques:</b> Data preprocessing, quality control, normalization, identification of highly variable genes, dimensionality reduction (PCA, UMAP), clustering, marker gene analysis, data visualization</li>
+  </ul>
+
 
 ## Data Science Projects
 
