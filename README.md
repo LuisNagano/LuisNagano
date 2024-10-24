@@ -132,7 +132,8 @@ I have the ability to communicate complex data in a clear, accessible way, makin
   </ul>
 
 - <h3><a href="https://github.com/LuisNagano/Single-Cell-Clustering-Analysis" style="text-decoration: underline;">Single Cell Clustering Analysis Using Seurat</a></h3>
-  This project presents a comprehensive pipeline for single-cell RNA sequencing (scRNA-seq) data analysis using the Seurat package. The workflow covers all key steps from data preprocessing to cell type identification, showcasing best practices in computational biology. The analysis utilizes the "PBMC 3k" dataset from 10x Genomics.
+  
+  This project establishes a robust pipeline for single-cell RNA sequencing (scRNA-seq) data analysis utilizing the **Seurat** package. By processing the **PBMC 3k** dataset from 10x Genomics, the workflow encompasses comprehensive data preprocessing, stringent quality control, normalization, identification of highly variable genes, dimensionality reduction (PCA and UMAP), advanced clustering algorithms, marker gene discovery, and precise cell type annotation. The pipeline is optimized for scalability and reproducibility, delivering high-resolution, publication-ready visualizations that facilitate insightful biological interpretations. This project serves as a practical framework for researchers and industry professionals aiming to perform reliable and efficient single-cell analyses.
 
   <b>Technologies used:</b>
   <ul>
